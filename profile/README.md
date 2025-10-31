@@ -6,4 +6,4 @@ The project is funded by the National Science Foundation, under grants OAC-24113
 
 To get started, try the tutorials. 
 
-If you are interested in participating, please reach out to the overall project PI Eric Jankowsi.
+If you are interested in participating, please reach out to the overall project PI Eric Jankowski.
