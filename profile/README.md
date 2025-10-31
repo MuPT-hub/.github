@@ -9,3 +9,25 @@ The project is funded by the National Science Foundation, under grants OAC-24113
 To get started, try the tutorials. 
 
 If you are interested in participating, please reach out to the overall project PI Eric Jankowski.
+
+#### Credits
+
+##### Project PI's
+
+- Eric Jankowski (Boise State)
+- Jacob Gissinger (Stevens Institute of Technology)
+- Janani Sampath (University of Florida)
+- Sapna Sarupria (University of Minnesota-Twin Cities)
+- Michael Shirts (University of Colorado Boulder)
+
+##### Contributors
+
+- Tim Bernat
+- Salman Bin Kashif
+- Sirsha Ganguly
+- Janitha Mahanthe
+- Stephanie McCallum,
+- Naomi Trampe
+- David W.H. Swendsen
+- Jeff Wagner
+- Matt Thompson
