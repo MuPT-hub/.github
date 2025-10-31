@@ -11,8 +11,8 @@ To get started, try the currently working tutorials here.
 - (Some tutorial) Some tutorial
 - (Some tutorial) Some tutorial
 - (Some tutorial) Some tutorial
-- 
-If you are interested in participating, please reach out to the overall project PI Eric Jankowski.
+  
+If you are interested in participating, please reach out to project PI Eric Jankowski (<ericjankowski@boisestate.edu>)
 
 #### Credits
 
