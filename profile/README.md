@@ -25,15 +25,15 @@ If you are interested in participating, please reach out to project PI Eric Jank
 ##### Contributors
 
 - Tim Bernat (University of Colorado Boulder)
-- Joe Laforet Jr. (University of Colorado Boulder)
 - Salman Bin Kashif (University of Colorado Boulder)
-- Sirsha Ganguly (Stevens Institute of Technology)
-- Janitha Mahanthe (University of Florida)
+- Sirsha Ganguly (University of Florida)
+- Joe Laforet Jr. (University of Colorado Boulder)
+- Janitha Mahanthe (Stevens Institute of Technology)
 - Stephanie McCallum (Boise State University) 
-- Naomi Trampe (University of Minnesota-Twin Cities)
 - David W. H. Swendsen (Open Molecular Software Foundation)
-- Jeff Wagner (Open Molecular Software Foundation)
 - Matt Thompson (Open Molecular Software Foundation)
+- Naomi Trampe (University of Minnesota-Twin Cities)
+- Jeff Wagner (Open Molecular Software Foundation)
 
 ##### Funding
 The project is funded in part by the National Science Foundation, under grants OAC-2411302, OAC-2411303, OAC-2411304, OAC-2411305, and OAC-2411306.
