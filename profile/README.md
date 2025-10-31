@@ -6,15 +6,19 @@ The multiscale polymer toolkit is a collaborative infrastructure to expand the a
 
 The project is funded by the National Science Foundation, under grants OAC-2411302, OAC-2411303, OAC-2411304, OAC-2411305, and OAC-2411306.
 
-To get started, try the tutorials. 
+To get started, try the currently working tutorials here. 
 
+- (Some tutorial) Some tutorial
+- (Some tutorial) Some tutorial
+- (Some tutorial) Some tutorial
+- 
 If you are interested in participating, please reach out to the overall project PI Eric Jankowski.
 
 #### Credits
 
 ##### Project PI's
 
-- Eric Jankowski (Boise State)
+- Eric Jankowski (Boise State University)
 - Jacob Gissinger (Stevens Institute of Technology)
 - Janani Sampath (University of Florida)
 - Sapna Sarupria (University of Minnesota-Twin Cities)
@@ -22,12 +26,12 @@ If you are interested in participating, please reach out to the overall project 
 
 ##### Contributors
 
-- Tim Bernat
-- Salman Bin Kashif
-- Sirsha Ganguly
-- Janitha Mahanthe
-- Stephanie McCallum,
-- Naomi Trampe
-- David W.H. Swendsen
-- Jeff Wagner
-- Matt Thompson
+- Tim Bernat (University of Colorado Boulder)
+- Salman Bin Kashif (University of Colorado Boulder)
+- Sirsha Ganguly (Stevens Institute of Technology)
+- Janitha Mahanthe (University of Florida)
+- Stephanie McCallum (Boise State University) 
+- Naomi Trampe (University of Minnesota-Twin Cities)
+- David W.H. Swendsen (Open Molecular Software Foundation)
+- Jeff Wagner (Open Molecular Software Foundation)
+- Matt Thompson (Open Molecular Software Foundation)
