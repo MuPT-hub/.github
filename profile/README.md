@@ -25,6 +25,7 @@ If you are interested in participating, please reach out to project PI Eric Jank
 ##### Contributors
 
 - Tim Bernat (University of Colorado Boulder)
+- Joe Laforet Jr. (University of Colorado Boulder)
 - Salman Bin Kashif (University of Colorado Boulder)
 - Sirsha Ganguly (Stevens Institute of Technology)
 - Janitha Mahanthe (University of Florida)
