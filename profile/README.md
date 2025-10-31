@@ -4,8 +4,6 @@
 
 The multiscale polymer toolkit is a collaborative infrastructure to expand the ability of the polymer research community to understand structure- function relationships in polymers with multiscale molecular modeling and simulations. 
 
-The project is funded by the National Science Foundation, under grants OAC-2411302, OAC-2411303, OAC-2411304, OAC-2411305, and OAC-2411306.
-
 To get started, try the currently working tutorials here. 
 
 - (Some tutorial) Some tutorial
@@ -35,3 +33,6 @@ If you are interested in participating, please reach out to project PI Eric Jank
 - David W. H. Swendsen (Open Molecular Software Foundation)
 - Jeff Wagner (Open Molecular Software Foundation)
 - Matt Thompson (Open Molecular Software Foundation)
+
+##### Funding
+The project is funded in part by the National Science Foundation, under grants OAC-2411302, OAC-2411303, OAC-2411304, OAC-2411305, and OAC-2411306.
