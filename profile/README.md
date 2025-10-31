@@ -32,6 +32,6 @@ If you are interested in participating, please reach out to project PI Eric Jank
 - Janitha Mahanthe (University of Florida)
 - Stephanie McCallum (Boise State University) 
 - Naomi Trampe (University of Minnesota-Twin Cities)
-- David W.H. Swendsen (Open Molecular Software Foundation)
+- David W. H. Swendsen (Open Molecular Software Foundation)
 - Jeff Wagner (Open Molecular Software Foundation)
 - Matt Thompson (Open Molecular Software Foundation)
