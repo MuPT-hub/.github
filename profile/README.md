@@ -14,7 +14,7 @@ If you are interested in participating, please reach out to project PI Eric Jank
 
 #### Credits
 
-##### Project PI's
+##### Project PIs
 
 - Eric Jankowski (Boise State University)
 - Jacob Gissinger (Stevens Institute of Technology)
