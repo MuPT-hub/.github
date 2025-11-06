@@ -4,7 +4,7 @@
 
 The multiscale polymer toolkit is a collaborative infrastructure to expand the ability of the polymer research community to understand structure- function relationships in polymers with multiscale molecular modeling and simulations. 
 
-To get started, try the currently working tutorials in (https://github.com/MuPT-hub/mupt-examples)[https://github.com/MuPT-hub/mupt-examples].
+To get started, try the currently working tutorials in [https://github.com/MuPT-hub/mupt-examples](https://github.com/MuPT-hub/mupt-examples).
 
 If you are interested in participating, please reach out to project PI Eric Jankowski (<ericjankowski@boisestate.edu>)
 
